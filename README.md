@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Olá, me chamo Marcos!
 
-<!--
-**mwndl/mwndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor fullstack com foco em aplicações Java com Spring Boot no backend e React ou React Native no frontend. Atualmente, estou desenvolvendo o **FinApp**, um app de controle financeiro com metas de investimento colaborativas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias que uso
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswiendl&layout=compact&langs_count=8&theme=dracula)
+
+---
+
+### 📊 Minhas contribuições
+
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoswiendl&show_icons=true&theme=dracula)
+
+---
+
+### 📌 Sobre mim
+
+- 🇧🇷 Brasileiro
+- ☕ Amante de café e código limpo
+- 🚀 Em constante aprendizado e sempre buscando soluções elegantes
+- 🔒 Gosto de trabalhar com segurança, arquitetura limpa e boas práticas de API REST
+
+---
+
+### 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/marcoswiendl)
