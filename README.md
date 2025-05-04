@@ -6,13 +6,13 @@ Sou desenvolvedor fullstack com foco em aplicações Java com Spring Boot no bac
 
 ### 🔧 Tecnologias que uso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwndl&layout=compact&langs_count=8&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwndl&layout=compact&langs_count=8&theme=dracula" width="100%" />
 
 ---
 
 ### 📊 Minhas contribuições
 
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwndl&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=mwndl&show_icons=true&theme=dracula" width="100%" />
 
 ---
 
