@@ -4,12 +4,6 @@ I'm a fullstack developer focused on Java applications with Spring Boot on the b
 
 ---
 
-### 🔧 Technologies I use
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwndl&layout=compact&langs_count=8&theme=dracula" width="100%" />
-
----
-
 ### 📌 About me
 
 - 🇧🇷 Brazilian
